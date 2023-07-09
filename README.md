@@ -11,16 +11,16 @@
 
 ### Table of Contents:
 1. Importing modules
-2. Neural Networks\
-    2.1. Problem Statement\
-    2.2. Dataset\
-    2.3. Model representation\
-    2.4. Tensorflow Model Implementation\
-        * Exercise 1\
-    2.5. NumPy Model Implementation (Forward Prop in NumPy)\
-        * Exercise 2\
-    2.6. Vectorized NumPy Model Implementation (Optional)\
-        * Exercise 3
+2. Neural Networks
+	* 2.1. Problem Statement
+	* 2.2. Dataset
+    	* 2.3. Model representation
+    	* 2.4. Tensorflow Model Implementation
+        	* Exercise 1
+    	* 2.5. NumPy Model Implementation (Forward Prop in NumPy)
+        	* Exercise 2
+    	* 2.6. Vectorized NumPy Model Implementation (Optional)
+        	* Exercise 3
 
 
 ### How to Install and Run the Project:
@@ -29,7 +29,7 @@ To successfully run this project you have to do the following steps:
 
 	Step 1. Run the "Neural_Networks_for_Binary" Jupyter Notebook file on your PC/Notebook.
 
-	Step 2. Import all required libraries and data frames from the Section "Importing modules".
+	Step 2. Import all required libraries and data frames from the Sections "Importing modules" and "Dataset".
 
 	Step 3. Import the dataset. Run the cell of the "Dataset" Section for getting previously mentioned project goals due to Neural Network Machine Learning model execution (for binary classification).
 
