@@ -16,11 +16,11 @@
   * 2.2. Dataset
   * 2.3. Model representation
   * 2.4. Tensorflow Model Implementation
-        	* Exercise 1
+     * Exercise 1
   * 2.5. NumPy Model Implementation (Forward Prop in NumPy)
-        	* Exercise 2
+     * Exercise 2
   * 2.6. Vectorized NumPy Model Implementation (Optional)
-        	* Exercise 3
+     * Exercise 3
 
 
 ### How to Install and Run the Project:
