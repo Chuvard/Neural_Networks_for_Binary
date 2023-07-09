@@ -13,14 +13,14 @@
 1. Importing modules
 2. Neural Networks
     * 2.1. Problem Statement
-  * 2.2. Dataset
-  * 2.3. Model representation
-  * 2.4. Tensorflow Model Implementation
-     * Exercise 1
-  * 2.5. NumPy Model Implementation (Forward Prop in NumPy)
-     * Exercise 2
-  * 2.6. Vectorized NumPy Model Implementation (Optional)
-     * Exercise 3
+    * 2.2. Dataset
+    * 2.3. Model representation
+    * 2.4. Tensorflow Model Implementation
+       * Exercise 1
+    * 2.5. NumPy Model Implementation (Forward Prop in NumPy)
+       * Exercise 2
+    * 2.6. Vectorized NumPy Model Implementation (Optional)
+       * Exercise 3
 
 
 ### How to Install and Run the Project:
