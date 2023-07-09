@@ -12,7 +12,7 @@
 ### Table of Contents:
 1. Importing modules
 2. Neural Networks
-  * 2.1. Problem Statement
+    * 2.1. Problem Statement
   * 2.2. Dataset
   * 2.3. Model representation
   * 2.4. Tensorflow Model Implementation
